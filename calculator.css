@@ -1,0 +1,39 @@
+h1 {
+  color: violet;
+  text-align: center;
+}
+#body {
+  height: 900px;
+  width: 720px;
+  background-color: black;
+  display: block;
+  margin: auto;
+}
+
+
+
+div {
+  color: white;
+  font-size: 80px;
+  display: inline-block;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  background-color: #313030;
+  margin: 10px;
+  text-align: center;
+}
+
+.specialSymbols {
+  color: green;
+}
+
+#clear {
+  color: red;
+}
+
+#equal {
+  background-color: green;
+  color: white;
+}
+
